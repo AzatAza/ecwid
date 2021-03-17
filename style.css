@@ -1,0 +1,8 @@
+body {
+  display: flex;
+}
+
+.icons {
+  position: relative;
+  top: 20px;
+}
